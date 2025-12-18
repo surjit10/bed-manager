@@ -654,7 +654,7 @@ rm -rf node_modules/.vite
 
 ## Contact
 
-**Developer**: Surjit Singh
+**Developer**: Surjit mandal
 
 - GitHub: [@surjit10](https://github.com/surjit10)
 
